@@ -11,6 +11,10 @@ Have you ever wondered what happens when you click a link, open an application, 
 
 This website helps readers understand the technology behind these everyday activities in a simple and engaging way.
 
+🌐 Live Website
+
+Visit my website: "Behind the Screen" (https://maithiligc20.github.io/Behind-the-screen/)
+
 ✨ Features
 
 - 🏠 Home: An introduction to the world of technology.
